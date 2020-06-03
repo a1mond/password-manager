@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/Consts/Consts.h
+string
+-
+../User/User.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/User/User.h
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/Debug/debug.h
+../Consts/Consts.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/Consts/Consts.h
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/GUI/console_interface.cpp
+console_interface.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/GUI/console_interface.h
+string
+-
+../ReadWriteManager/rwmanager.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/ReadWriteManager/rwmanager.h
+../Debug/debug.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/Debug/debug.h
+iostream
+-
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/GUI/console_interface.h
+string
+-
+../Consts/Consts.h
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/Consts/Consts.h
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/ReadWriteManager/rwmanager.h
+fstream
+-
+vector
+-
+iostream
+-
+
+C:/Users/kotik/Desktop/proga/CLion/Password Manager v2/User/User.h
+map
+-
+string
+-
+
